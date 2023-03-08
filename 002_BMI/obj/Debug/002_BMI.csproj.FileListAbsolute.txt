@@ -1,0 +1,12 @@
+C:\Users\konyang\source\repos\CS01\002_BMI\bin\Debug\002_BMI.exe.config
+C:\Users\konyang\source\repos\CS01\002_BMI\bin\Debug\002_BMI.exe
+C:\Users\konyang\source\repos\CS01\002_BMI\bin\Debug\002_BMI.pdb
+C:\Users\konyang\source\repos\CS01\002_BMI\obj\Debug\002_BMI.csprojAssemblyReference.cache
+C:\Users\konyang\source\repos\CS01\002_BMI\obj\Debug\_002_BMI.Form1.resources
+C:\Users\konyang\source\repos\CS01\002_BMI\obj\Debug\_002_BMI.Properties.Resources.resources
+C:\Users\konyang\source\repos\CS01\002_BMI\obj\Debug\002_BMI.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\CS01\002_BMI\obj\Debug\002_BMI.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\CS01\002_BMI\obj\Debug\002_BMI.exe
+C:\Users\konyang\source\repos\CS01\002_BMI\obj\Debug\002_BMI.pdb
+C:\Users\konyang\source\repos\CS01\002_BMI\obj\Debug\002_BMI.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\CS01\002_BMI\obj\Debug\002_BMI.csproj.SuggestedBindingRedirects.cache
