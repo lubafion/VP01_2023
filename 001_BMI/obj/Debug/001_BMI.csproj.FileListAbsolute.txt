@@ -1,7 +1,0 @@
-C:\Users\konyang\source\repos\CS01\001_BMI\obj\Debug\001_BMI.csprojAssemblyReference.cache
-C:\Users\konyang\source\repos\CS01\001_BMI\obj\Debug\001_BMI.csproj.CoreCompileInputs.cache
-C:\Users\konyang\source\repos\CS01\001_BMI\bin\Debug\001_BMI.exe.config
-C:\Users\konyang\source\repos\CS01\001_BMI\bin\Debug\001_BMI.exe
-C:\Users\konyang\source\repos\CS01\001_BMI\bin\Debug\001_BMI.pdb
-C:\Users\konyang\source\repos\CS01\001_BMI\obj\Debug\001_BMI.exe
-C:\Users\konyang\source\repos\CS01\001_BMI\obj\Debug\001_BMI.pdb
