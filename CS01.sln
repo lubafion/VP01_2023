@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1231
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_bmi", "001_bmi\001_bmi.csproj", "{2D48BC1F-5EC0-4316-81AC-F07853BBB291}"
 EndProject
@@ -20,6 +20,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_labels", "008_labels\008_labels.csproj", "{3C7FED90-0C08-450B-91E2-32119A38BECB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_CheckBox", "009_CheckBox\009_CheckBox.csproj", "{C8748DAC-F440-48E3-80F0-9577C309B3DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_array", "013_array\013_array.csproj", "{2E454165-5866-42F2-B8C5-90268ED53B08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_class", "014_class\014_class.csproj", "{19BD1BA6-09B0-4834-995A-C6BF890FAA79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015_chart", "015_chart\015_chart.csproj", "{DDD09930-38BE-4899-B46E-DD2E9CCF361B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016_TwoCharts", "016_TwoCharts\016_TwoCharts.csproj", "{C2F4DF6D-9342-42D4-91CF-B01354190CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_graph", "017_graph\017_graph.csproj", "{26DF3785-8866-4E66-9C57-94CEA727B336}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +73,26 @@ Global
 		{C8748DAC-F440-48E3-80F0-9577C309B3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8748DAC-F440-48E3-80F0-9577C309B3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8748DAC-F440-48E3-80F0-9577C309B3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E454165-5866-42F2-B8C5-90268ED53B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E454165-5866-42F2-B8C5-90268ED53B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E454165-5866-42F2-B8C5-90268ED53B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E454165-5866-42F2-B8C5-90268ED53B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BD1BA6-09B0-4834-995A-C6BF890FAA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BD1BA6-09B0-4834-995A-C6BF890FAA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BD1BA6-09B0-4834-995A-C6BF890FAA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BD1BA6-09B0-4834-995A-C6BF890FAA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD09930-38BE-4899-B46E-DD2E9CCF361B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD09930-38BE-4899-B46E-DD2E9CCF361B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD09930-38BE-4899-B46E-DD2E9CCF361B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD09930-38BE-4899-B46E-DD2E9CCF361B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F4DF6D-9342-42D4-91CF-B01354190CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F4DF6D-9342-42D4-91CF-B01354190CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F4DF6D-9342-42D4-91CF-B01354190CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F4DF6D-9342-42D4-91CF-B01354190CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DF3785-8866-4E66-9C57-94CEA727B336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DF3785-8866-4E66-9C57-94CEA727B336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DF3785-8866-4E66-9C57-94CEA727B336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DF3785-8866-4E66-9C57-94CEA727B336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
