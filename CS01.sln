@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016_TwoCharts", "016_TwoCha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_graph", "017_graph\017_graph.csproj", "{26DF3785-8866-4E66-9C57-94CEA727B336}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018_chart2", "018_chart2\018_chart2.csproj", "{333B8B07-8441-4665-8B14-31DD68647601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019_clock", "019_clock\019_clock.csproj", "{19650E84-0658-40F7-A760-FD076D3B899F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{26DF3785-8866-4E66-9C57-94CEA727B336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26DF3785-8866-4E66-9C57-94CEA727B336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26DF3785-8866-4E66-9C57-94CEA727B336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333B8B07-8441-4665-8B14-31DD68647601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333B8B07-8441-4665-8B14-31DD68647601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333B8B07-8441-4665-8B14-31DD68647601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333B8B07-8441-4665-8B14-31DD68647601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19650E84-0658-40F7-A760-FD076D3B899F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19650E84-0658-40F7-A760-FD076D3B899F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19650E84-0658-40F7-A760-FD076D3B899F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19650E84-0658-40F7-A760-FD076D3B899F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
